@@ -1,4 +1,4 @@
-teamAplha= "we have just started using gitHub"
-print(teamApha)
+Aplha= "we have just started using gitHub"
+print(Apha)
 
 print("Hello")
